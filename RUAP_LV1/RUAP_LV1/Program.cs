@@ -6,7 +6,8 @@ namespace RUAP_LV1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Pozdrav iz aplikacije od Davor Gotal!");
+            Console.WriteLine("Broj indeksa: ");
         }
     }
 }
